@@ -21,7 +21,7 @@ I am just starting to discover the world of computer science, but I am very dete
 
 ### ⚙️ Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
+<img align="left" alt="Java" width="0px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -39,15 +39,17 @@ I am just starting to discover the world of computer science, but I am very dete
 
 ### 📚 Now learning
 
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;padding-top:10px" src="./img/vulkan-logo.svg" />
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png" />
+<img align="left" alt="Bash" width="40px" style="padding-right:30px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" />
+<img align="left" alt="Spring" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
+<img align="left" alt="Spring" width="100px" style="padding-right:10px;" src="./img/vulkan-logo.svg" />
+<img align="left" alt="Spring" width="50px" style="padding-right:10px;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png" />
 
 <br />
 <br />
 <br />
-
+ 
+#
+  
 ### 📊 Stats
 
 ![DenisO's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denisthatorf&show_icons=true&theme=discord_old_blurple) <!-- github_dark -->
